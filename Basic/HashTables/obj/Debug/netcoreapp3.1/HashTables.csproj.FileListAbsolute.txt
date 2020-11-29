@@ -1,0 +1,13 @@
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\bin\Debug\netcoreapp3.1\HashTables.exe
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\bin\Debug\netcoreapp3.1\HashTables.deps.json
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\bin\Debug\netcoreapp3.1\HashTables.runtimeconfig.json
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\bin\Debug\netcoreapp3.1\HashTables.runtimeconfig.dev.json
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\bin\Debug\netcoreapp3.1\HashTables.dll
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\bin\Debug\netcoreapp3.1\HashTables.pdb
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\obj\Debug\netcoreapp3.1\HashTables.csprojAssemblyReference.cache
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfoInputs.cache
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfo.cs
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\obj\Debug\netcoreapp3.1\HashTables.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\obj\Debug\netcoreapp3.1\HashTables.dll
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\obj\Debug\netcoreapp3.1\HashTables.pdb
+C:\GitHub\Algorithms-in-CSharp\Basic\HashTables\obj\Debug\netcoreapp3.1\HashTables.genruntimeconfig.cache
