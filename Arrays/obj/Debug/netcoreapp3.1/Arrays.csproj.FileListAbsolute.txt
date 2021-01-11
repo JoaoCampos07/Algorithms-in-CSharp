@@ -1,0 +1,13 @@
+C:\GitHub\Algorithms-in-CSharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\GitHub\Algorithms-in-CSharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\GitHub\Algorithms-in-CSharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\GitHub\Algorithms-in-CSharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\GitHub\Algorithms-in-CSharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\GitHub\Algorithms-in-CSharp\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\GitHub\Algorithms-in-CSharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\GitHub\Algorithms-in-CSharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\GitHub\Algorithms-in-CSharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\GitHub\Algorithms-in-CSharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\GitHub\Algorithms-in-CSharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\GitHub\Algorithms-in-CSharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+C:\GitHub\Algorithms-in-CSharp\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
