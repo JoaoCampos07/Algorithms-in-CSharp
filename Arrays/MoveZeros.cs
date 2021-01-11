@@ -22,21 +22,19 @@ namespace Arrays
             // 1. Loop throught the elements
             // 2. ...Until we find a zero, them we need to pass the zero to the end.
             // 3. 
-
-            int[] whereZeros = new int[arr.Length];
-
-            int index = 0;
+            var counter = 1;
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i] == 0)
                 {
-                        var indx = i;
-                        for (int j = indx; j < arr.Length - 1; j++)
-                        {
-                            var aux = arr[j + 1];
-                            arr[j + 1] = arr[j];
-                            arr[j] = aux;
-                        }
+                    var indx = i;
+                    for (int j = indx; j < arr.Length - counter; j++)
+                    {
+                        var aux = arr[j + 1];
+                        arr[j + 1] = arr[j];
+                        arr[j] = aux;
+                    }
+                    counter++;
                 }
             }
         }
