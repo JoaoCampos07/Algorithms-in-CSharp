@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\joaoc\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\joaoc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Algorithms-in-CSharp\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\GitHub\\Algorithms-in-CSharp\\Intermediate\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "C:\\GitHub\\Algorithms-in-CSharp\\Arrays\\Arrays.csproj",
+      "projectPath": "C:\\GitHub\\Algorithms-in-CSharp\\Intermediate\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Algorithms-in-CSharp\\Arrays\\obj\\",
+      "outputPath": "C:\\GitHub\\Algorithms-in-CSharp\\Intermediate\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

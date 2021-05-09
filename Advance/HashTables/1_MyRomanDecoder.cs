@@ -1,13 +1,11 @@
-﻿using HashTables;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-// https://www.codewars.com/kata/51b6249c4612257ac0000005/train/csharp
-namespace HashTables
+﻿namespace HashTables
 {
-    public class MyRomanDecoder
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    public static class _1_MyRomanDecoder
     {
         public static Dictionary<char, int> romanNumerals = new Dictionary<char, int>
         {
@@ -51,23 +49,5 @@ namespace HashTables
 
             return decodedWihtouSub - toSubtract;
         }
-
-
-        // 1 option : 2 loops 
-        // 2 option : Do only one loop that detects if we have a subtracter 
-
-        // pointer one 1 
-        // pointer on 0 
-        // If we 
-        // 0 -> I
-        // 1 -> V
-        //public static int Decode_2(string roman)
-        //{
-        //    for (int i = 0, j = 1; i < roman.Length; i++, j++)
-        //    {
-
-        //    }
-        //}
-
     }
 }

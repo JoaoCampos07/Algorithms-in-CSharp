@@ -1,11 +1,14 @@
-using HashTables;
-using System;
-using Xunit;
-
-namespace HashTableTests
+﻿namespace HashTableTests
 {
-    
-    public class MyRomanDecoderTests
+    using HashTables;
+
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
+    using Xunit;
+
+    public class _1_MyRomanDecoderTests
     {
         [Theory]
         [InlineData("IV", 4)]
@@ -14,7 +17,7 @@ namespace HashTableTests
         //[InlineData("MMXIV", 2014)]
         public static void Test1(string roman, int expected)
         {
-            var result = MyRomanDecoder.Decode(roman);
+            var result = _1_MyRomanDecoder.Decode(roman);
 
             Assert.Equal(expected, result);
         }
