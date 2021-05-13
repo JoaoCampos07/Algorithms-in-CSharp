@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Arrays
+﻿namespace Arrays.RLZeros
 {
-    public class MoveZeros
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    public class Solution
     {
         public static void MoveZeroes_Basic(int[] arr)
         {

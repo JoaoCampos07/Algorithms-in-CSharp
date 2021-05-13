@@ -1,11 +1,11 @@
-﻿namespace HashTables
+﻿namespace HashTables.RomanDecoder
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
 
-    public static class _1_OthersRomanDecoder
+    public class OthersRomanDecoder
     {
         // First Solution
         private static readonly Dictionary<char, int> literals = new Dictionary<char, int>

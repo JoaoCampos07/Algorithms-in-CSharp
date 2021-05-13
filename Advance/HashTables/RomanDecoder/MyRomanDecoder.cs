@@ -1,11 +1,11 @@
-﻿namespace HashTables
+﻿namespace HashTables.RomanDecoder
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
 
-    public static class _1_MyRomanDecoder
+    class MyRomanDecoder
     {
         public static Dictionary<char, int> romanNumerals = new Dictionary<char, int>
         {
